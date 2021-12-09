@@ -3,6 +3,6 @@ from approvaltests import verify
 
 class SmokeTest(unittest.TestCase):
   def test_hello_world(self):
-    verify("hello world")
+    verify("hello world\n")
 
 unittest.main()
