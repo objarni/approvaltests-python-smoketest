@@ -6,7 +6,7 @@ A little hack to check if a specific ApprovalTests.Python library version blows 
 Example runs on Ubuntu 20.04:
 
 ```bash
-/home/olof/approvaltests-python-smoketest/$ python3 smoketest.py 0.3
+olof@computer$ python3 smoketest.py 0.3
 Collecting approvaltests==0.3
   Using cached approvaltests-0.3.0-py3-none-any.whl (21 kB)
 ... # lots of things being installed
